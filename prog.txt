@@ -1,0 +1,6 @@
+create food object(s)
+cross through the screen
+add/remove walls
+show points
+------------------------------------------pause game--
+use images for food
